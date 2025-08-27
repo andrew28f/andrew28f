@@ -1,9 +1,3 @@
-<p align="center">
-  Estudante de Engenharia da Computação | Construindo meu caminho como desenvolvedor | Tecnologia com propósito, lógica e inovação
-</p>
-
----
-
 ## Sobre mim
 
 Sou estudante de Engenharia da Computação com foco no desenvolvimento de soluções tecnológicas que aliem lógica, eficiência e inovação. No início da minha carreira, busco constantemente aplicar e consolidar meu conhecimento por meio de projetos práticos, bootcamps e mentorias especializadas. Tenho familiaridade com linguagens como C, Java e SQL, além de tecnologias como HTML e CSS. Estou aprofundando minhas habilidades em algoritmos, estrutura de dados, orientação a objetos e desenvolvimento web, com ênfase em boas práticas de código e versionamento com Git.
